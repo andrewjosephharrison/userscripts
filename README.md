@@ -2,11 +2,14 @@
 
 A curated collection of Tampermonkey userscripts for cleaning up modern websites and improving UX
 
-## Scripts
+---
+
+## Available Scripts
 
 - **Google — Hide AI Overview**  
   Removes Google’s AI Overview module from search results.  
   Folder: `google-hide-ai-overview/`
+  One-click install: https://raw.githubusercontent.com/andrewjosephharrison/userscripts/main/google-hide-ai-overview/google-hide-ai-overview.user.js
 
 # userscripts
 
@@ -71,18 +74,6 @@ To install:
 4. Refresh the target website
 
 That’s it — the script is now running automatically.
-
----
-
-## Available Scripts
-
-### **Google — Hide AI Overview**
-
-Removes Google’s AI Overview module from search results.
-
-Folder: google-hide-ai-overview/
-
-One-click install: https://raw.githubusercontent.com/andrewjosephharrison/userscripts/main/google-hide-ai-overview/google-hide-ai-overview.user.js
 
 ---
 
