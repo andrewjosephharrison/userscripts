@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         Google: Hide AI Overview
-// @namespace    https://tampermonkey.net/
+// @name         Google — Hide AI Overview
+// @namespace    https://github.com/andrewjosephharrison/userscripts
 // @version      1.0.0
-// @description  Hides/removes the "AI Overview" section from Google Search results
+// @description  Removes Google’s AI Overview module from search results.
 // @match        https://www.google.com/search*
 // @match        https://www.google.*/*search*
 // @run-at       document-start
 // @grant        GM_addStyle
+// @homepageURL  https://github.com/andrewjosephharrison/userscripts/tree/main/google-hide-ai-overview
+// @supportURL   https://github.com/andrewjosephharrison/userscripts/issues
 // ==/UserScript==
 
 (() => {

@@ -8,6 +8,12 @@ Clean SERPs. No AI summary box.
 
 ---
 
+## 🚀 One-click install
+
+https://raw.githubusercontent.com/andrewjosephharrison/userscripts/main/google-hide-ai-overview/google-hide-ai-overview.user.js
+
+---
+
 ## ✨ What it does
 
 - Detects Google’s **AI Overview** module using stable attributes and visible labels

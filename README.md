@@ -12,6 +12,9 @@ These scripts remove UI clutter, dark patterns, AI spam, and other annoyances fr
   Removes Google’s AI Overview module from search results.  
   Folder: `google-hide-ai-overview/`
 
+  One-click install:
+  https://raw.githubusercontent.com/andrewjosephharrison/userscripts/main/google-hide-ai-overview/google-hide-ai-overview.user.js
+
 ---
 
 ## 🐵 What is Tampermonkey?
