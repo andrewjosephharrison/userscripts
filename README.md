@@ -4,7 +4,9 @@ A curated collection of Tampermonkey userscripts for cleaning up modern websites
 
 These scripts remove UI clutter, dark patterns, AI spam, and other annoyances from popular websites — giving you back control over how the web behaves.
 
-## Scripts
+---
+
+## 🧩 Scripts
 
 - **Google — Hide AI Overview**  
   Removes Google’s AI Overview module from search results.  
@@ -12,7 +14,7 @@ These scripts remove UI clutter, dark patterns, AI spam, and other annoyances fr
 
 ---
 
-## What is Tampermonkey?
+## 🐵 What is Tampermonkey?
 
 Tampermonkey is a browser extension that lets you run custom JavaScript on specific websites.  
 It allows you to modify, hide, or enhance parts of a site after it loads — without needing to fork or host anything.
@@ -23,7 +25,7 @@ Think of it as:
 
 ---
 
-## Install Tampermonkey
+## 📥 Install Tampermonkey
 
 Install the Tampermonkey browser extension first:
 
@@ -37,7 +39,7 @@ Once installed, Tampermonkey will intercept `.user.js` files and offer to instal
 
 ---
 
-## Tampermonkey Requirements
+## ⚙️ Tampermonkey Requirements
 
 To allow userscripts to run correctly, make sure Tampermonkey is configured properly:
 
@@ -55,7 +57,7 @@ https://www.tampermonkey.net/faq.php#Q209
 
 ---
 
-## How to Install a Script
+## 🚀 How to Install a Script
 
 Each script folder contains a `.user.js` file.
 
@@ -70,7 +72,7 @@ That’s it — the script is now running automatically.
 
 ---
 
-## Philosophy
+## 🧠 Philosophy
 
 Modern websites increasingly:
 
@@ -83,7 +85,7 @@ These userscripts exist to reverse that trend — giving power users tools to sh
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 Websites change frequently.  
 If a script stops working, it may need updated selectors or logic.
